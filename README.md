@@ -13,10 +13,10 @@ A list of all the Falcon BMS Tools Available
 - [HapticFeedback](#hapticfeedback)
 - [TacView](#tacview)
 - [Radar](#radar)
+- [Head Track Software](#headtracking_software)
 
 ## Tools 
 - [LightningTools](https://github.com/lightningviper/lightningstools)
-
 
 ## Arduino
 - [BMSAIT by HummerX](https://github.com/HummerX/BMSAIT)
@@ -52,7 +52,13 @@ A list of all the Falcon BMS Tools Available
 - [Falcon Shaker](https://github.com/MC-Deedle/FalconShaker)
 
 ## Tacview
+- [Tacview](https://www.tacview.net/product/about/en/)
 - [Tacview Filter](https://github.com/UOAF/tacview-filter)
 
 ## Radar
 - [OpenRadar](https://github.com/UOAF/OpenRadar)
+
+## HeadTracking_Software
+- [TrackIR](https://www.trackir.com/)
+- [FaceTrackNoIR](FaceTrackNoIR)
+- [OpenTrack](https://github.com/opentrack/opentrack)
