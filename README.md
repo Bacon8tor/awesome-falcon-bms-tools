@@ -28,3 +28,5 @@ A list of all the Falcon BMS Tools Available
 - [OpenKneeboards](https://openkneeboard.com/)
 
 ## Mobile-Apps
+- [BMSNav](https://rsedev.net/bmsnav/)
+- [Falcon BMS Control](https://kungfoo.github.io/falcon-bms-control/)
