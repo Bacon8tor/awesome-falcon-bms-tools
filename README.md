@@ -7,7 +7,6 @@ A list of all the Falcon BMS Tools Available
 - [Arduino](#arduino)
 - [Breifings](#breifings)
 - [Kneeboards](#kneeboards)
-- [Maps](#maps)
 - [Voice](#voice)
 - [Mobile Apps](#mobile-apps)
 - [3dModels](#3dmodels)
@@ -17,11 +16,14 @@ A list of all the Falcon BMS Tools Available
 - [Radar](#radar)
 - [Head Track Software](#headtracking_software)
 - [Bots](#bots)
-  
+- [Manuals](#manuals)
 
 ## Tools 
 **[↑ back to top](#awesome-falcon-bms-tools)**
 - [LightningTools](https://github.com/lightningviper/lightningstools) - A Wide Range of Tools to Use with Falcon BMS
+- [BullsEyeHelper](https://github.com/JBoysen1/BullsEyeHelper) - Enter ownship and enemy by tapping the Bullseye chart. Or use the entry fields which brings up an in-app keyboard.
+
+
 
 ## Arduino
 **[↑ back to top](#awesome-falcon-bms-tools)**
@@ -42,9 +44,8 @@ A list of all the Falcon BMS Tools Available
 - [BMS Kneeboard and Planner](https://github.com/evansmj/BMS-Kneeboard-and-Planner) -
 - [BMS Kneeboard Server](https://github.com/AviiNL/bms-kneeboard-server) - BMS-Kneeboard-Server is a tool that transforms Falcon BMS's briefing.txt into a HTML server that can be used in OpenKneeboard's Web Dashboard tab, or, as a side effect of how it works, it can also be displayed on an external device such as a tablet.
 - [Falcon Cards](https://github.com/avan069/falconcards) - Customizable kneeboard cards in Falcon BMS using Excel for Windows.
+- [Kneeboard-Extractor](https://github.com/root0fall/kneeboard-extractor) - Kneeboard Extractor is a command-line utility that converts kneeboard DDS files into PNG files.
 
-## Maps
-- 
 
 ## Voice
 **[↑ back to top](#awesome-falcon-bms-tools)**
@@ -95,3 +96,7 @@ A list of all the Falcon BMS Tools Available
 ## Bots
 - [lsobot](https://github.com/candera/lsobot) - A carrier landing grading tool for Falcon BMS.
 - [F4 ATIS](https://github.com/Blu3wolf/F4-ATIS) - Automatic Terminal Information Service for Falcon BMS 4.33
+
+## Manuals
+- [BMSManualFinder](https://github.com/JBoysen1/BMSManualFinder) - Powerful search through manuals for Falcon BMS. Get deep-links to results
+
