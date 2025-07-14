@@ -8,8 +8,8 @@ A list of all the Falcon BMS Tools Available
 - [Kneeboards](#kneeboards)
 - [Mobile Apps](#mobile-apps)
 - [3dModels](#3dmodels)
-
-
+- [Inputs](#inputs)
+- [HapticFeedback](#hapticfeedback)
 
 ## Tools 
 - [LightningTools](https://github.com/lightningviper/lightningstools)
@@ -35,3 +35,9 @@ A list of all the Falcon BMS Tools Available
 ## 3dModels
 - [JonahTsai-F16](https://github.com/JonahTsai/F16)
 - [Fox Hunter](https://www.printables.com/@riccardoland_1626907/collections/2295948)
+
+## Inputs
+- [PTO2 for BMS](https://github.com/ExoLightFR/PTO2-for-BMS) : A small utility to synchronize your Winwing PTO2 lights with Falcon BMS
+
+## HapticFeedback
+- [Falcon Shaker](https://github.com/MC-Deedle/FalconShaker)
