@@ -70,6 +70,8 @@ A list of all the Falcon BMS Tools Available
 - [Helios](https://github.com/HeliosVirtualCockpit/Helios) - Full Cockpit functionality for touchscreens or just displaying items on screen, works with DCS and Falcon
 - [Falcon BMS Callbacker](https://github.com/kungfoo/falcon-bms-callbacker) - Falcon BMS Callbacker allows you to invoke BMS callbacks by simply sending them as a UDP datagram.
 - [Simhub Plugin for Falcon BMS](https://github.com/RobGeada/falcon-bms-simhub-plugin) - This plugin connects Falcon 4 BMS's telemetry output to SimHub, allowing the use of SimHub to control bass shakers, LEDs, wind simulators, etc., based on Falcon 4's telemetry.
+- [BMS2Target](https://github.com/iknowkungfutoo/BMS2Target) - BMS2Target is a utility by Scubapics (“Slughead”) that connects Falcon BMS flight sim data to the Thrustmaster Viper TQS Mission Pack via TARGET scripts, synchronizing the in‑game LED indicators in real time.
+- [TMHotasLED](https://github.com/iknowkungfutoo/TMHotasLEDSync) - Used with BMS2Traget
 
 ## HapticFeedback
 **[↑ back to top](#awesome-falcon-bms-tools)**
