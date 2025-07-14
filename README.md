@@ -11,6 +11,8 @@ A list of all the Falcon BMS Tools Available
 - [3dModels](#3dmodels)
 - [Inputs](#inputs)
 - [HapticFeedback](#hapticfeedback)
+- [TacView](#tacview)
+- [Radar](#radar)
 
 ## Tools 
 - [LightningTools](https://github.com/lightningviper/lightningstools)
@@ -48,3 +50,9 @@ A list of all the Falcon BMS Tools Available
 
 ## HapticFeedback
 - [Falcon Shaker](https://github.com/MC-Deedle/FalconShaker)
+
+## Tacview
+- [Tacview Filter](https://github.com/UOAF/tacview-filter)
+
+## Radar
+- [OpenRadar](https://github.com/UOAF/OpenRadar)
