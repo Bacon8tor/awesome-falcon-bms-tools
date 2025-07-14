@@ -44,7 +44,7 @@ A list of all the Falcon BMS Tools Available
 
 ## Inputs
 - [PTO2 for BMS](https://github.com/ExoLightFR/PTO2-for-BMS) : A small utility to synchronize your Winwing PTO2 lights with Falcon BMS
-- [Helios](https://github.com/HeliosVirtualCockpit) : 
+- [Helios](https://github.com/HeliosVirtualCockpit/Helios) : Full Cockpit functionality for touchscreens or just displaying items on screen, works with DCS and Falcon
 
 ## HapticFeedback
 - [Falcon Shaker](https://github.com/MC-Deedle/FalconShaker)
