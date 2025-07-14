@@ -7,6 +7,7 @@ A list of all the Falcon BMS Tools Available
 - [Breifings](#breifings)
 - [Kneeboards](#kneeboards)
 - [Mobile Apps](#mobile-apps)
+- [3dModels](#3dmodels)
 
 
 
@@ -30,3 +31,7 @@ A list of all the Falcon BMS Tools Available
 ## Mobile-Apps
 - [BMSNav](https://rsedev.net/bmsnav/)
 - [Falcon BMS Control](https://kungfoo.github.io/falcon-bms-control/)
+
+## 3dModels
+- [JonahTsai-F16](https://github.com/JonahTsai/F16)
+- [Fox Hunter](https://www.printables.com/@riccardoland_1626907/collections/2295948)
