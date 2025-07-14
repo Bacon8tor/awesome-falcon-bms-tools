@@ -7,6 +7,7 @@ A list of all the Falcon BMS Tools Available
 - [Arduino](#arduino)
 - [Breifings](#breifings)
 - [Kneeboards](#kneeboards)
+- [Maps](#maps)
 - [Voice](#voice)
 - [Mobile Apps](#mobile-apps)
 - [3dModels](#3dmodels)
@@ -15,6 +16,8 @@ A list of all the Falcon BMS Tools Available
 - [TacView](#tacview)
 - [Radar](#radar)
 - [Head Track Software](#headtracking_software)
+- [Bots](#bots)
+  
 
 ## Tools 
 **[↑ back to top](#awesome-falcon-bms-tools)**
@@ -25,6 +28,7 @@ A list of all the Falcon BMS Tools Available
 - [BMSAIT by HummerX](https://github.com/HummerX/BMSAIT) - BMSAIT ist an interface tool for cockpit builders. It allows to relay output data from the shared memory of Falcon BMS to output devices like LED, LCD, Servo motors and many others. BMSAIT also allows to register input commands from digital and analog sources like switches, encoders and potentiometers to simulate keyboard and joystick commands that will be send to Falcon BMS.
 - [F4ToSerial](https://f4toserial.com/) - Send all data of Falcon BMS/DCS world to your home cockpit using the serial port ...
 - [DEDuino](https://github.com/uriba107/deduino) - Arduino Based DED for Falcon BMS.
+- [AoAIndexer](https://github.com/LMino/AoAIndexer) - Falcon BMS arduino and desktop applications for displaying angle of attack data (projec does not have a built solution, so you will need to compile yourself)
 
 ## Breifings
 **[↑ back to top](#awesome-falcon-bms-tools)**
@@ -35,10 +39,17 @@ A list of all the Falcon BMS Tools Available
 **[↑ back to top](#awesome-falcon-bms-tools)**
 - [EZKneeboards](https://forum.falcon-bms.com/topic/19901/ezboards-generate-kneeboards-flights-comms-stpts-weather-from-briefings) - Instant single-click briefing to kneeboards conversion for Falcon BMS.
 - [OpenKneeboards](https://openkneeboard.com/)
+- [BMS Kneeboard and Planner](https://github.com/evansmj/BMS-Kneeboard-and-Planner) -
+- [BMS Kneeboard Server](https://github.com/AviiNL/bms-kneeboard-server) - BMS-Kneeboard-Server is a tool that transforms Falcon BMS's briefing.txt into a HTML server that can be used in OpenKneeboard's Web Dashboard tab, or, as a side effect of how it works, it can also be displayed on an external device such as a tablet.
+- [Falcon Cards](https://github.com/avan069/falconcards) - Customizable kneeboard cards in Falcon BMS using Excel for Windows.
+
+## Maps
+- 
 
 ## Voice
 **[↑ back to top](#awesome-falcon-bms-tools)**
 - [VoiceAttack](https://voiceattack.com/) - Send Commands via Voice
+- [FoxVox](https://foxster.itch.io/foxvox/devlog/855162/foxvox-update-v30)
 - [JanJan VoiceAttack Profile](https://forum.voiceattack.com/smf/index.php?topic=3891.0) - Full Featured Profile for VoiceAttack works with DCS and Falcon
 - [AVCS4](https://veterans-gaming.com/files/file/35-avcs4-voice-control-radios-for-falcon-bms/) - Only for VoiceAttack v1
 
@@ -46,6 +57,7 @@ A list of all the Falcon BMS Tools Available
 **[↑ back to top](#awesome-falcon-bms-tools)**
 - [BMSNav](https://rsedev.net/bmsnav/) - BMSNav is a companion app for the Falcon BMS flight simulator that displays kneeboards, briefings, and various navigation aids on a mobile device.
 - [Falcon BMS Control](https://kungfoo.github.io/falcon-bms-control/) - Falcon BMS Control lets you control Falcon BMS from any touch enabled device.
+- [BMSMFD](https://github.com/JBoysen1/BMSMFD) - 
 
 ## 3dModels
 **[↑ back to top](#awesome-falcon-bms-tools)**
@@ -56,6 +68,8 @@ A list of all the Falcon BMS Tools Available
 **[↑ back to top](#awesome-falcon-bms-tools)**
 - [PTO2 for BMS](https://github.com/ExoLightFR/PTO2-for-BMS) - A small utility to synchronize your Winwing PTO2 lights with Falcon BMS
 - [Helios](https://github.com/HeliosVirtualCockpit/Helios) - Full Cockpit functionality for touchscreens or just displaying items on screen, works with DCS and Falcon
+- [Falcon BMS Callbacker](https://github.com/kungfoo/falcon-bms-callbacker) - Falcon BMS Callbacker allows you to invoke BMS callbacks by simply sending them as a UDP datagram.
+- [Simhub Plugin for Falcon BMS](https://github.com/RobGeada/falcon-bms-simhub-plugin) - This plugin connects Falcon 4 BMS's telemetry output to SimHub, allowing the use of SimHub to control bass shakers, LEDs, wind simulators, etc., based on Falcon 4's telemetry.
 
 ## HapticFeedback
 **[↑ back to top](#awesome-falcon-bms-tools)**
@@ -75,3 +89,7 @@ A list of all the Falcon BMS Tools Available
 - [TrackIR](https://www.trackir.com/) - 
 - [FaceTrackNoIR](FaceTrackNoIR)
 - [OpenTrack](https://github.com/opentrack/opentrack)
+
+## Bots
+- [lsobot](https://github.com/candera/lsobot) - A carrier landing grading tool for Falcon BMS.
+- [F4 ATIS](https://github.com/Blu3wolf/F4-ATIS) - Automatic Terminal Information Service for Falcon BMS 4.33
