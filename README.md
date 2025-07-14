@@ -33,7 +33,7 @@ A list of all the Falcon BMS Tools Available
 ## Breifings
 **[↑ back to top](#awesome-falcon-bms-tools)**
 - [Falcon-BMS-Briefings-Web-Server](https://github.com/MilKris666/Falcon-BMS-Briefings-Web-Server) - This PowerShell script makes the Falcon BMS briefings available to all devices on the network via a browser. The script starts a simple web server on the Falcon BMS computer and automatically updates the latest Briefing.html.
-- [Falcon Briefinf](https://github.com/dglava/falcon-briefing) - Utility to show the briefing files from Falcon BMS on your smartphone, tablet or any device running a web browser. It works on Falcon BMS 4.37 only (not tested on Falcon BMS 4.38).
+- [Falcon Briefing](https://github.com/dglava/falcon-briefing) - Utility to show the briefing files from Falcon BMS on your smartphone, tablet or any device running a web browser. It works on Falcon BMS 4.37 only (not tested on Falcon BMS 4.38).
 
 ## Kneeboards
 **[↑ back to top](#awesome-falcon-bms-tools)**
