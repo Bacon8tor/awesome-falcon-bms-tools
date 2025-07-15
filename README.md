@@ -39,7 +39,7 @@ A list of all the Falcon BMS Tools Available
 
 ## Kneeboards
 **[↑ back to top](#awesome-falcon-bms-tools)**
-- [EZKneeboards](https://forum.falcon-bms.com/topic/19901/ezboards-generate-kneeboards-flights-comms-stpts-weather-from-briefings) - Instant single-click briefing to kneeboards conversion for Falcon BMS.
+- [EZboards](https://forum.falcon-bms.com/topic/19901/ezboards-generate-kneeboards-flights-comms-stpts-weather-from-briefings) - Instant single-click briefing to kneeboards conversion for Falcon BMS.
 - [OpenKneeboards](https://openkneeboard.com/)
 - [BMS Kneeboard and Planner](https://github.com/evansmj/BMS-Kneeboard-and-Planner) -
 - [BMS Kneeboard Server](https://github.com/AviiNL/bms-kneeboard-server) - BMS-Kneeboard-Server is a tool that transforms Falcon BMS's briefing.txt into a HTML server that can be used in OpenKneeboard's Web Dashboard tab, or, as a side effect of how it works, it can also be displayed on an external device such as a tablet.
