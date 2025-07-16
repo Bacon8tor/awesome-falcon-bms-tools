@@ -17,6 +17,7 @@ A list of all the Falcon BMS Tools Available
 - [Head Track Software](#headtracking_software)
 - [Bots](#bots)
 - [Manuals](#manuals)
+- [Fonts](#fonts)
 
 ## Tools 
 **[↑ back to top](#awesome-falcon-bms-tools)**
@@ -102,3 +103,6 @@ A list of all the Falcon BMS Tools Available
 **[↑ back to top](#awesome-falcon-bms-tools)**
 - [BMSManualFinder](https://github.com/JBoysen1/BMSManualFinder) - Powerful search through manuals for Falcon BMS. Get deep-links to results
 
+## Fonts
+**[↑ back to top](#awesome-falcon-bms-tools)**
+- [FalconDED](https://fontstruct.com/fontstructions/show/1014500/falconded)
