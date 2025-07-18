@@ -18,6 +18,7 @@ A list of all the Falcon BMS Tools Available
 - [Bots](#bots)
 - [Manuals](#manuals)
 - [Fonts](#fonts)
+- [References](#references)
 
 ## Tools 
 **[↑ back to top](#awesome-falcon-bms-tools)**
@@ -63,8 +64,9 @@ A list of all the Falcon BMS Tools Available
 
 ## 3dModels
 **[↑ back to top](#awesome-falcon-bms-tools)**
-- [JonahTsai-F16](https://github.com/JonahTsai/F16) - Solidworks models of entire F16 Cockpit
+- [JonahTsai-F16](https://github.com/JonahTsai/F16) - Solidworks models of entire F16 Cockpit [website](http://www.seedling.org/The_Official_Hempstick_Site/Flight_Sim_3D_Models.html)
 - [Fox Hunter](https://www.printables.com/@riccardoland_1626907/collections/2295948) - Great models with electronics, uses BMSAIT
+- [Flight Sim 3d Models](http://www.seedling.org/The_Official_Hempstick_Site/Flight_Sim_3D_Models.html) - Great F16 Models
 
 ## Inputs
 **[↑ back to top](#awesome-falcon-bms-tools)**
@@ -102,7 +104,12 @@ A list of all the Falcon BMS Tools Available
 ## Manuals
 **[↑ back to top](#awesome-falcon-bms-tools)**
 - [BMSManualFinder](https://github.com/JBoysen1/BMSManualFinder) - Powerful search through manuals for Falcon BMS. Get deep-links to results
-
+- [F16 Manual](https://info.publicintelligence.net/HAF-F16.pdf)
 ## Fonts
 **[↑ back to top](#awesome-falcon-bms-tools)**
 - [FalconDED](https://fontstruct.com/fontstructions/show/1014500/falconded)
+
+## References
+**[↑ back to top](#awesome-falcon-bms-tools)**
+- [F16C Reference Library](https://www.xflight.de/) - Amazing Pictures of all cockpits and references, if you want to build a cockpit look here. 
+- [F-16 Throttle](https://www.aerotronicsllc.com/docs/throttle.pdf)
