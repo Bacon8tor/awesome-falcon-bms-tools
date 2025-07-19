@@ -10,6 +10,7 @@ A list of all the Falcon BMS Tools Available
 - [Voice](#voice)
 - [Mobile Apps](#mobile-apps)
 - [3dModels](#3dmodels)
+- [Modding](#modding)
 - [Inputs](#inputs)
 - [HapticFeedback](#hapticfeedback)
 - [TacView](#tacview)
