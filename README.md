@@ -25,6 +25,7 @@ A list of all the Falcon BMS Tools Available
 **[↑ back to top](#awesome-falcon-bms-tools)**
 - [LightningTools](https://github.com/lightningviper/lightningstools) - A Wide Range of Tools to Use with Falcon BMS
 - [BullsEyeHelper](https://github.com/JBoysen1/BullsEyeHelper) - Enter ownship and enemy by tapping the Bullseye chart. Or use the entry fields which brings up an in-app keyboard.
+- [CFG EDitor](https://github.com/AliRAZD/CFG-ConfiguratorV2)
 
 
 
