@@ -31,6 +31,7 @@ A list of all the Falcon BMS Tools Available
 
 ## Arduino
 **[↑ back to top](#awesome-falcon-bms-tools)**
+- [Falcon BMS Arduino Connector](https://github.com/Bacon8tor/FalconBMSArduinoConnector-Arduino)
 - [BMSAIT by HummerX](https://github.com/HummerX/BMSAIT) - BMSAIT ist an interface tool for cockpit builders. It allows to relay output data from the shared memory of Falcon BMS to output devices like LED, LCD, Servo motors and many others. BMSAIT also allows to register input commands from digital and analog sources like switches, encoders and potentiometers to simulate keyboard and joystick commands that will be send to Falcon BMS.
 - [F4ToSerial](https://f4toserial.com/) - Send all data of Falcon BMS/DCS world to your home cockpit using the serial port ...
 - [DEDuino](https://github.com/uriba107/deduino) - Arduino Based DED for Falcon BMS.
