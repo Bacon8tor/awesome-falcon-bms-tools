@@ -50,7 +50,7 @@ A list of all the Falcon BMS Tools Available
 - [BMS Kneeboard Server](https://github.com/AviiNL/bms-kneeboard-server) - BMS-Kneeboard-Server is a tool that transforms Falcon BMS's briefing.txt into a HTML server that can be used in OpenKneeboard's Web Dashboard tab, or, as a side effect of how it works, it can also be displayed on an external device such as a tablet.
 - [Falcon Cards](https://github.com/avan069/falconcards) - Customizable kneeboard cards in Falcon BMS using Excel for Windows.
 - [Kneeboard-Extractor](https://github.com/root0fall/kneeboard-extractor) - Kneeboard Extractor is a command-line utility that converts kneeboard DDS files into PNG files.
-
+- [Dark Charts](https://forum.falcon-bms.com/topic/26682/dark-charts-for-bms)
 
 ## Voice
 **[↑ back to top](#awesome-falcon-bms-tools)**
@@ -58,6 +58,7 @@ A list of all the Falcon BMS Tools Available
 - [FoxVox](https://foxster.itch.io/foxvox/devlog/855162/foxvox-update-v30)
 - [JanJan VoiceAttack Profile](https://forum.voiceattack.com/smf/index.php?topic=3891.0) - Full Featured Profile for VoiceAttack works with DCS and Falcon
 - [AVCS4](https://veterans-gaming.com/files/file/35-avcs4-voice-control-radios-for-falcon-bms/) - Only for VoiceAttack v1
+- [Voice Recognition Profile Generator](https://github.com/RISCfuture/VoiceRecognitionProfileGenerator) - This tool generates both VAC and VoiceAttack profiles for voice recognition intended for use in video gaming.
 
 ## Mobile-Apps
 **[↑ back to top](#awesome-falcon-bms-tools)**
