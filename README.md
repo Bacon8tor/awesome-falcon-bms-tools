@@ -65,6 +65,8 @@ A list of all the Falcon BMS Tools Available
 - [BMSNav](https://rsedev.net/bmsnav/) - BMSNav is a companion app for the Falcon BMS flight simulator that displays kneeboards, briefings, and various navigation aids on a mobile device.
 - [Falcon BMS Control](https://kungfoo.github.io/falcon-bms-control/) - Falcon BMS Control lets you control Falcon BMS from any touch enabled device.
 - [BMSMFD](https://github.com/JBoysen1/BMSMFD) - 
+- [PSUdp](https://forum.falcon-bms.com/topic/27275/psudp-software-v-1-0-3-update-for-falcon-bms-4-37u3-and-dcs-2-9-1-with-cpd/2)
+
 
 ## 3dModels
 **[↑ back to top](#awesome-falcon-bms-tools)**
