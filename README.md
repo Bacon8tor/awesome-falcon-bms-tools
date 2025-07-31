@@ -74,6 +74,7 @@ A list of all the Falcon BMS Tools Available
 - [Fox Hunter](https://www.printables.com/@riccardoland_1626907/collections/2295948) - Great models with electronics, uses BMSAIT
 - [Flight Sim 3d Models](http://www.seedling.org/The_Official_Hempstick_Site/Flight_Sim_3D_Models.html) - Great F16 Models
 - [F-16 ICP](https://www.thingiverse.com/thing:5192816) - F16 ICP Flight Control Panel by ThatOneGuy09
+- [Open Viper HOTAS](https://www.thingiverse.com/thing:4924037) 
 
 ## Inputs
 **[↑ back to top](#awesome-falcon-bms-tools)**
